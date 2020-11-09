@@ -1,6 +1,6 @@
 # My-Certifications
 
-<a href="Yandex">Yandex Certification</a>
+<a href="#Yandex">Yandex Certification</a>
 
 <br>
 <h3>Bing Microsoft Certification :</h3>
