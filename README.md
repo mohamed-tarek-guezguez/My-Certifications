@@ -1,6 +1,6 @@
 # My-Certifications
 
-<h2>Bing Microsoft Certification :</h2>
+<h3>Bing Microsoft Certification :</h3>
 <img src="Bing%20Microsoft%20Certification/Bing _ Microsoft Advertising-1.jpg">
 
 <h2>Cisco Certification :</h2>
