@@ -61,7 +61,7 @@
 <img src="SEMrush%20Certification/SEMrush _ Seo Toolkit-1.jpg">
 
 <h2>SoloLearn Certification :</h2>
-<img src="SoloLearn%20Certification/SoloLearn _ C#-1.jpg">
+<img src="SoloLearn%20Certification/SoloLearn%20_%20C%23-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ C++-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ C-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ CSS Fundamentals-1.jpg">
