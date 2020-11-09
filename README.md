@@ -1,20 +1,20 @@
 # My-Certifications
 
-<a href="#Microsoft">Bing Microsoft Certification</a>
-<a href="#Cisco">Cisco Certification</a>
-<a href="#Cognitive">Cognitive Class Certification</a>
-<a href="#Cursa">Cursa Certification</a>
-<a href="#DataCamp">DataCamp Certification</a>
-<a href="#Eduonix">Eduonix Certification</a>
-<a href="#FreeCodeCamp">FreeCodeCamp Certification</a>
-<a href="#Google">Google Certification</a>
-<a href="#HubSpot">HubSpot Certification</a>
-<a href="#Pirple">Pirple Certification</a>
-<a href="#SEMrush">SEMrush Certification</a>
-<a href="#SoloLearn">SoloLearn Certification</a>
-<a href="#Udemy">Udemy Certification</a>
-<a href="#Waves">Waves Plugins Certification</a>
-<a href="#Yandex">Yandex Certification</a>
+<a href="#Microsoft">Bing Microsoft Certification</a><br>
+<a href="#Cisco">Cisco Certification</a><br>
+<a href="#Cognitive">Cognitive Class Certification</a><br>
+<a href="#Cursa">Cursa Certification</a><br>
+<a href="#DataCamp">DataCamp Certification</a><br>
+<a href="#Eduonix">Eduonix Certification</a><br>
+<a href="#FreeCodeCamp">FreeCodeCamp Certification</a><br>
+<a href="#Google">Google Certification</a><br>
+<a href="#HubSpot">HubSpot Certification</a><br>
+<a href="#Pirple">Pirple Certification</a><br>
+<a href="#SEMrush">SEMrush Certification</a><br>
+<a href="#SoloLearn">SoloLearn Certification</a><br>
+<a href="#Udemy">Udemy Certification</a><br>
+<a href="#Waves">Waves Plugins Certification</a><br>
+<a href="#Yandex">Yandex Certification</a><br>
 
 <br>
 <h3 id="Microsoft">Bing Microsoft Certification :</h3>
