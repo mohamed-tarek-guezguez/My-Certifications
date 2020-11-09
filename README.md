@@ -1,34 +1,48 @@
 # My-Certifications
 
+<a href="#Microsoft">Bing Microsoft Certification</a>
+<a href="#Cisco">Cisco Certification</a>
+<a href="#Cognitive">Cognitive Class Certification</a>
+<a href="#Cursa">Cursa Certification</a>
+<a href="#DataCamp">DataCamp Certification</a>
+<a href="#Eduonix">Eduonix Certification</a>
+<a href="#FreeCodeCamp">FreeCodeCamp Certification</a>
+<a href="#Google">Google Certification</a>
+<a href="#HubSpot">HubSpot Certification</a>
+<a href="#Pirple">Pirple Certification</a>
+<a href="#SEMrush">SEMrush Certification</a>
+<a href="#SoloLearn">SoloLearn Certification</a>
+<a href="#Udemy">Udemy Certification</a>
+<a href="#Waves">Waves Plugins Certification</a>
 <a href="#Yandex">Yandex Certification</a>
 
 <br>
-<h3>Bing Microsoft Certification :</h3>
+<h3 id="Microsoft">Bing Microsoft Certification :</h3>
 <img src="Bing%20Microsoft%20Certification/Bing _ Microsoft Advertising-1.jpg">
 
 <br>
-<h3>Cisco Certification :</h3>
+<h3 id="Cisco">Cisco Certification :</h3>
 <img src="Cisco%20Certification/Cisco _ Cybersecurity Essentials-1.jpg">
 <img src="Cisco%20Certification/Cisco _ Introduction to Cybersecurity-1.jpg">
 
 <br>
-<h3>Cognitive Class Certification :</h3>
+<h3 id="Cognitive">Cognitive Class Certification :</h3>
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Big Data 101-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Machine Learning with Python-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ PHP Web Application On a LAMP Stack-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Python 101 for Data Science-1.jpg">
 
 <br>
-<h3>Cursa Certification :</h3>
+<h3 id="Cursa">Cursa Certification :</h3>
 <img src="Cursa%20Certification/Cursa _ Flutter-1.jpg">
 
 <br>
-<h3>DataCamp Certification :</h3>
+<h3 id="DataCamp">DataCamp Certification :</h3>
 <img src="DataCamp%20Certification/DataCamp _ Intermediate Python-1.jpg">
 <img src="DataCamp%20Certification/DataCamp _ Introduction to python-1.jpg">
 
 <br>
-<h3>Eduonix Certification :</h3>
+<h3 id="Eduonix">Eduonix Certification :</h3>
 <img src="Eduonix%20Certification/Eduonix _ Be A White Hat Hacker-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ C Programming-1.jpg">
 <img src="Eduonix%20Certification/Eduonix%20_%20C%23%20Programming-1.jpg">
@@ -44,11 +58,11 @@
 <img src="Eduonix%20Certification/Eduonix _ Web Developer-1.jpg">
 
 <br>
-<h3>FreeCodeCamp Certification :</h3>
+<h3 id="FreeCodeCamp">FreeCodeCamp Certification :</h3>
 <img src="FreeCodeCamp%20Certification/FreeCodeCamp _ Responsive Web Design-1.jpg">
 
 <br>
-<h3>Google Certification :</h3>
+<h3 id="Google">Google Certification :</h3>
 <img src="Google%20Certification/Google _ Ads - Measurement-1.jpg">
 <img src="Google%20Certification/Google _ Ads Display-1.jpg">
 <img src="Google%20Certification/Google _ Ads Search-1.jpg">
@@ -61,20 +75,20 @@
 <img src="Google%20Certification/Google _ YouTube Channel Growth-1.jpg">
 
 <br>
-<h3>HubSpot Certification :</h3>
+<h3 id="HubSpot">HubSpot Certification :</h3>
 <img src="HubSpot%20Certification/HubSpot _ Growth driven Design-1.jpg">
 <img src="HubSpot%20Certification/HubSpot _ Social Media-1.jpg">
 
 <br>
-<h3>Pirple Certification :</h3>
+<h3 id="Pirple">Pirple Certification :</h3>
 <img src="Pirple%20Certification/Pirple _ Frontend Fundamentals-1.jpg">
 
 <br>
-<h3>SEMrush Certification :</h3>
+<h3 id="SEMrush">SEMrush Certification :</h3>
 <img src="SEMrush%20Certification/SEMrush _ Seo Toolkit-1.jpg">
 
 <br>
-<h3>SoloLearn Certification :</h3>
+<h3 id="SoloLearn">SoloLearn Certification :</h3>
 <img src="SoloLearn%20Certification/SoloLearn%20_%20C%23-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ C++-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ C-1.jpg">
@@ -93,7 +107,7 @@
 <img src="SoloLearn%20Certification/SoloLearn _ Swift 4 Fundamentals-1.jpg">
 
 <br>
-<h3>Udemy Certification :</h3>
+<h3 id="Udemy">Udemy Certification :</h3>
 <img src="Udemy%20Certification/Udemy _ Adobe After Effects-1.jpg">
 <img src="Udemy%20Certification/Udemy _ Adobe Audition-1.jpg">
 <img src="Udemy%20Certification/Udemy _ Adobe InDesign-1.jpg">
@@ -108,7 +122,7 @@
 <img src="Udemy%20Certification/Udemy _ WordPress-1.jpg">
 
 <br>
-<h3>Waves Plugins Certification :</h3>
+<h3 id="Waves">Waves Plugins Certification :</h3>
 <img src="Waves%20Plugins%20Certification/Waves Plugins _ SoundGrid 201-1.jpg">
 <img src="Waves%20Plugins%20Certification/Waves Plugins _ SoundGrid 301-1.jpg">
 
