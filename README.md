@@ -1,26 +1,26 @@
 # My-Certifications
 
-
+<br>
 <h3>Bing Microsoft Certification :</h3>
 <img src="Bing%20Microsoft%20Certification/Bing _ Microsoft Advertising-1.jpg">
 
-
+<br>
 <h3>Cisco Certification :</h3>
 <img src="Cisco%20Certification/Cisco _ Cybersecurity Essentials-1.jpg">
 <img src="Cisco%20Certification/Cisco _ Introduction to Cybersecurity-1.jpg">
 
-
+<br>
 <h3>Cognitive Class Certification :</h3>
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Big Data 101-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Machine Learning with Python-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ PHP Web Application On a LAMP Stack-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Python 101 for Data Science-1.jpg">
 
-
+<br>
 <h3>Cursa Certification :</h3>
 <img src="Cursa%20Certification/Cursa _ Flutter-1.jpg">
 
-
+<br>
 <h3>DataCamp Certification :</h3>
 <img src="DataCamp%20Certification/DataCamp _ Intermediate Python-1.jpg">
 <img src="DataCamp%20Certification/DataCamp _ Introduction to python-1.jpg">
