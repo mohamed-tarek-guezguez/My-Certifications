@@ -25,7 +25,7 @@
 <img src="DataCamp%20Certification/DataCamp _ Intermediate Python-1.jpg">
 <img src="DataCamp%20Certification/DataCamp _ Introduction to python-1.jpg">
 
-
+<br>
 <h3>Eduonix Certification :</h3>
 <img src="Eduonix%20Certification/Eduonix _ Be A White Hat Hacker-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ C Programming-1.jpg">
@@ -41,11 +41,11 @@
 <img src="Eduonix%20Certification/Eduonix _ Unity 3D-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ Web Developer-1.jpg">
 
-
+<br>
 <h3>FreeCodeCamp Certification :</h3>
 <img src="FreeCodeCamp%20Certification/FreeCodeCamp _ Responsive Web Design-1.jpg">
 
-
+<br>
 <h3>Google Certification :</h3>
 <img src="Google%20Certification/Google _ Ads - Measurement-1.jpg">
 <img src="Google%20Certification/Google _ Ads Display-1.jpg">
@@ -58,20 +58,20 @@
 <img src="Google%20Certification/Google _ Shopping Ads-1.jpg">
 <img src="Google%20Certification/Google _ YouTube Channel Growth-1.jpg">
 
-
+<br>
 <h3>HubSpot Certification :</h3>
 <img src="HubSpot%20Certification/HubSpot _ Growth driven Design-1.jpg">
 <img src="HubSpot%20Certification/HubSpot _ Social Media-1.jpg">
 
-
+<br>
 <h3>Pirple Certification :</h3>
 <img src="Pirple%20Certification/Pirple _ Frontend Fundamentals-1.jpg">
 
-
+<br>
 <h3>SEMrush Certification :</h3>
 <img src="SEMrush%20Certification/SEMrush _ Seo Toolkit-1.jpg">
 
-
+<br>
 <h3>SoloLearn Certification :</h3>
 <img src="SoloLearn%20Certification/SoloLearn%20_%20C%23-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ C++-1.jpg">
@@ -90,7 +90,7 @@
 <img src="SoloLearn%20Certification/SoloLearn _ SQL-1.jpg">
 <img src="SoloLearn%20Certification/SoloLearn _ Swift 4 Fundamentals-1.jpg">
 
-
+<br>
 <h3>Udemy Certification :</h3>
 <img src="Udemy%20Certification/Udemy _ Adobe After Effects-1.jpg">
 <img src="Udemy%20Certification/Udemy _ Adobe Audition-1.jpg">
@@ -105,12 +105,12 @@
 <img src="Udemy%20Certification/Udemy _ Python Core And Advanced-1.jpg">
 <img src="Udemy%20Certification/Udemy _ WordPress-1.jpg">
 
-
+<br>
 <h3>Waves Plugins Certification :</h3>
 <img src="Waves%20Plugins%20Certification/Waves Plugins _ SoundGrid 201-1.jpg">
 <img src="Waves%20Plugins%20Certification/Waves Plugins _ SoundGrid 301-1.jpg">
 
-
+<br>
 <h3>Yandex Certification :</h3>
 <img src="Yandex%20Certification/Yandex _ Direct Test-1.jpg">
 <img src="Yandex%20Certification/Yandex _ Metrica-1.jpg">
