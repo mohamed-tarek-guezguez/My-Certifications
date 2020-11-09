@@ -23,7 +23,7 @@
 <h2>Eduonix Certification :</h2>
 <img src="Eduonix%20Certification/Eduonix _ Be A White Hat Hacker-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ C Programming-1.jpg">
-<img src="Eduonix%20Certification/Eduonix _ C# Programming-1.jpg">
+<img src="Eduonix%20Certification/Eduonix%20_%20C%23%20Programming-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ Designing Using Illustrator-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ Designing Using Photoshop-1.jpg">
 <img src="Eduonix%20Certification/Eduonix _ Django and Python Development-1.jpg">
