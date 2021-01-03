@@ -3,6 +3,7 @@
 <a href="#Microsoft">Bing Microsoft Certification</a><br>
 <a href="#Cisco">Cisco Certification</a><br>
 <a href="#Cognitive">Cognitive Class Certification</a><br>
+<a href="#Coursera">Coursera Certification</a><br>
 <a href="#Cursa">Cursa Certification</a><br>
 <a href="#DataCamp">DataCamp Certification</a><br>
 <a href="#Eduonix">Eduonix Certification</a><br>
@@ -31,6 +32,10 @@
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Machine Learning with Python-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ PHP Web Application On a LAMP Stack-1.jpg">
 <img src="Cognitive%20Class%20Certification/Cognitive Class _ Python 101 for Data Science-1.jpg">
+
+<br>
+<h3 id="Coursera">Coursera Certification :</h3>
+<img src="Coursera/Coursera%20_%20Programming%20for%20Everybody-1.png">
 
 <br>
 <h3 id="Cursa">Cursa Certification :</h3>
