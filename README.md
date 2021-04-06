@@ -36,6 +36,7 @@
 <br>
 <h3 id="Coursera">Coursera Certification :</h3>
 <img src="Coursera/Coursera%20_%20Programming%20for%20Everybody-1.png">
+<img src="Coursera/Coursera%20_%20Python%20and%20Statistics%20for%20Financial%20Analysis.pdf">
 
 <br>
 <h3 id="Cursa">Cursa Certification :</h3>
