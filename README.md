@@ -46,6 +46,7 @@
 <h3 id="DataCamp">DataCamp Certification :</h3>
 <img src="DataCamp%20Certification/DataCamp _ Intermediate Python-1.jpg">
 <img src="DataCamp%20Certification/DataCamp _ Introduction to python-1.jpg">
+<img src="DataCamp%20Certification/DataCamp _ Image Processing in Python-1.png">
 
 <br>
 <h3 id="Eduonix">Eduonix Certification :</h3>
