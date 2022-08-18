@@ -32,6 +32,7 @@
 <img src="FreeCodeCamp%20Certification/FreeCodeCamp _ Responsive Web Design-1.jpg">
 
 <br>
+<h3 id="Google">Google Certification :</h3>
 <img src="Google%20Certification/Google _ Digital Garage-1.jpg">
 
 <br>
